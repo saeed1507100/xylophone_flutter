@@ -1,6 +1,6 @@
 # xylophone
 
-A new Flutter project.
+A simple Flutter project containning a Xylophone that palys different notes on button press.
 
 ## Getting Started
 
